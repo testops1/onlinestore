@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 ugfedhfjdnflededf
 
 rfgf;lmgflkgrfsd
 fdfd,f's,gkf;f,sd';f[]fpgtg
 ff
+=======
+ugfedhfjdnflededf
+
+rfgf;lmgflkgrfsd
+fdfd,f's,gkf;f,sd';f[]fpgtg
+ff
+>>>>>>> ca16b13360ebc476d53b34fb4676d2f670d07577
 dgfg,fxl;g,fl;x,vz;
